@@ -1,9 +1,5 @@
-# Licenciatura de Engenharia Informática 2019-2022
+# Introdução às Redes de Comunicação 20-21
 
-Tudo o material que juntei durante a minha licenciatura de engenharia informática no ISEC.
+Se quiserem compilar com GCC (com recurso a MingW visto que isto é tudo código que depende do WinSocks), podem usar o seguinte comando:
 
-Cada cadeira tem um ramo (branch).
-
-A licença de uso é a GNUGPLv3 e pode ser encontrada [aqui](LICENSE).
-
-**TL:DR: Esta licença permite ao povo fazer basicamente tudo o que desejar exceto distribuir versões de código fechado.**
+`gcc <nome do ficheiro.c> -o <nome do executável.exe> -lws2_32`
