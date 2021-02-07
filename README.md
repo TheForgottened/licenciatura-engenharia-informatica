@@ -1,6 +1,6 @@
-# Programação 19-20
+# Tecnologias Web 19-20
 
-A minha recomendação é instalarem o [MingW](https://sourceforge.net/projects/mingw/) (Windows) ou GCC (Linux) para começarem a compilar código como deve ser. Para IDE recomendo o [VS Code](https://code.visualstudio.com/download) (não se esqueçam de ativar a opção "Abrir com Code" para o menu de contexto de Windows durante a instalação).
+A minha recomendação é instalarem o [VS Code](https://code.visualstudio.com/download) junto com a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
 `gcc <nome do ficheiro.c> -o <nome do executável.exe>`
 
