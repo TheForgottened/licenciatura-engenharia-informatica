@@ -1,4 +1,0 @@
-﻿  Ex5.c
-C:\Users\Tatiana Azevedo\Desktop\Eng.ª Inf.ª\IP\25.11.19\Ex5.c(14,17): warning C4013: 'BuildNumber' undefined; assuming extern returning int
-C:\Users\Tatiana Azevedo\Desktop\Eng.ª Inf.ª\IP\25.11.19\Ex5.c(17,14): warning C4013: 'Simetric' undefined; assuming extern returning int
-  25.11.19.vcxproj -> C:\Users\Tatiana Azevedo\Desktop\Eng.ª Inf.ª\IP\25.11.19\Debug\25.11.19.exe

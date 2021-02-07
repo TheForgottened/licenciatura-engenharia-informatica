@@ -1,5 +1,0 @@
-﻿  Source.c
-C:\Users\Tatiana Azevedo\Desktop\Eng.ª Inf.ª\IP\Aula1\ComeçarDo0CRL\Project\Source.c(69,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Tatiana Azevedo\Desktop\Eng.ª Inf.ª\IP\Aula1\ComeçarDo0CRL\Project\Source.c(71,13): warning C4553: '==': result of expression not used; did you intend '='?
-C:\Users\Tatiana Azevedo\Desktop\Eng.ª Inf.ª\IP\Aula1\ComeçarDo0CRL\Project\Source.c(85): warning C4716: 'mostrarPagamento': must return a value
-  Project.vcxproj -> C:\Users\Tatiana Azevedo\Desktop\Eng.ª Inf.ª\IP\Aula1\ComeçarDo0CRL\Project\Debug\Project.exe

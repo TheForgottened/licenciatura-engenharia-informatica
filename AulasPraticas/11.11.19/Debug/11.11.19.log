@@ -1,5 +1,0 @@
-﻿  ex7.c
-C:\Users\Tatiana Azevedo\Desktop\Eng.ª Inf.ª\IP\11.11.19\ex7.c(15,9): warning C4013: 'drawS' undefined; assuming extern returning int
-C:\Users\Tatiana Azevedo\Desktop\Eng.ª Inf.ª\IP\11.11.19\ex7.c(16,9): warning C4013: 'drawF' undefined; assuming extern returning int
-C:\Users\Tatiana Azevedo\Desktop\Eng.ª Inf.ª\IP\11.11.19\ex7.c(21,10): warning C4013: 'spaces' undefined; assuming extern returning int
-  11.11.19.vcxproj -> C:\Users\Tatiana Azevedo\Desktop\Eng.ª Inf.ª\IP\11.11.19\Debug\11.11.19.exe
