@@ -1,6 +1,6 @@
 # Licenciatura de Engenharia Informática 2019-2022
 
-Tudo o material que juntei durante a minha licenciatura de engenharia informática no ISEC.
+Todo o material que juntei durante a minha licenciatura de engenharia informática no ISEC.
 
 Cada cadeira tem um ramo (branch).
 
