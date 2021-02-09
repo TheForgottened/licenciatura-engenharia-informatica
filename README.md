@@ -7,3 +7,5 @@ Cada cadeira tem um ramo (branch).
 A licença de uso é a GNUGPLv3 e pode ser encontrada [aqui](LICENSE).
 
 **TL:DR: Esta licença permite ao povo fazer basicamente tudo o que desejar exceto distribuir versões de código fechado.**
+
+![meme](meme.png)
