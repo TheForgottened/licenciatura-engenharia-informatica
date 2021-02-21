@@ -4,6 +4,6 @@ A minha recomendação é instalarem o [MingW](https://sourceforge.net/projects/
 
 `g++ <nome do ficheiro.c> -o <nome do executável.exe>`
 
-O meu trabalho prático foi feito em grupo com o [@JOSEALM3IDA](https://github.com/JOSEALM3IDA) e pode ser encontrado [aqui](https://github.com/JOSEALM3IDA/POOTrabalho).
+O meu trabalho prático foi feito em grupo com o [@JOSEALM3IDA](https://github.com/JOSEALM3IDA) e pode ser encontrado [aqui](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/POO-2020/Trabalho).
 
 Nota final: 18
